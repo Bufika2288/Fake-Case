@@ -1,0 +1,644 @@
+"Phrases"
+{
+
+//Menus
+
+	"Weapons Menu:"
+	{
+		"en"		"Weapons Menu:"
+		"hu"		"Weapons Menu:"
+	}
+
+	"Weapons"
+	{
+		"en"		"Weapon List"
+		"hu"		"Weapon List"
+	}
+	
+	"Knifes"
+	{
+		"en"		"Knife List"
+		"hu"		"Knife List"
+	}
+
+	"Select weapon:"
+	{
+		"en"		"Select weapon:"
+		"hu"		"Válassz fegyvert:"
+	}
+
+	"Select knife:"
+	{
+		"en"		"Select knife:"
+		"hu"		"Válassz kést:"
+	}
+
+	"Select knife skin:"
+	{
+		"en"		"Select knife skin:"
+		"hu"		"Válassz kés festést:"
+	}
+	
+	"Select awp skin:"
+	{
+		"en"		"Select awp skin:"
+		"hu"		"Válassz awp festést:"
+	}
+	
+	"Select m4a1 skin:"
+	{
+		"hu"		"Select m4a1 skin:"
+		"en"		"Select m4a1 skin:"
+	}
+	
+	"Select m4a4 skin:"
+	{
+		"en"		"Select m4a4 skin:"
+		"hu"		"Válassz m4a4 festést:"
+	}
+	
+	"Select ak47 skin:"
+	{
+		"en"		"Select ak47 skin:"
+		"hu"		"Válassz ak47 festést:"
+	}
+	
+//CHAT MESSAGES
+
+	"Chat Tag"
+	{
+		"en"		"[FakeCase]"
+		"hu"		"[FakeCase]"
+	}
+	
+	"Chat message"
+	{
+		"en"		"has opened a container and found:"
+		"hu"		"kinyitott egy konténert és ezt találta:"
+	}
+	
+	"No Access"
+	{
+		"en"		"You doesnt have access to use this command."
+		"hu"		"Nincs hozzáférésed a parancs használatához."
+	}
+	
+	"Notify"
+	{
+		"en"		"has opened a fake case."
+		"hu"		"kinyitott egy kamu ládát."
+	}
+	
+//WEAPONS
+
+	"AWP"
+	{
+		"en"		"AWP"
+		"hu"		"AWP"
+	}
+	
+	"M4A1"
+	{
+		"en"		"M4A1"
+		"hu"		"M4A1"
+	}
+	
+	"M4A4"
+	{
+		"en"		"M4A4"
+		"hu"		"M4A4"
+	}
+	
+	"AK-47"
+	{
+		"en"		"AK-47"
+		"hu"		"AK-47"
+	}
+	
+//KNIFES
+	"Butterfly"
+	{
+		"en"		"Butterfly knife"
+		"hu"		"Pillangókés"
+	}
+	
+	"Classic"
+	{
+		"en"		"Classic knife"
+		"hu"		"Klasszikus kés"
+	}
+
+	"Bowie"
+	{
+		"en"		"Bowie knife"
+		"hu"		"Bowie"
+	}
+	
+	"Ursus"
+	{
+		"en"		"Ursus knife"
+		"hu"		"Ursus kés"
+	}
+	
+	"Navaja"
+	{
+		"en"		"Navaja knife"
+		"hu"		"Navaja"
+	}
+	
+	"Stiletto"
+	{
+		"en"		"Stiletto knife"
+		"hu"		"Stiletto"
+	}
+	
+	"Talon"
+	{
+		"en"		"Talon knife"
+		"hu"		"Talon"
+	}
+	
+	"Nomad"
+	{
+		"en"		"Nomad knife"
+		"hu"		"Nomad kés"
+	}
+	
+	"Skeleton"
+	{
+		"en"		"Skeleton knife"
+		"hu"		"Skeleton kés"
+	}
+	
+	"Survival"
+	{
+		"en"		"Survival knife"
+		"hu"		"Survival kés"
+	}
+	
+	"Paracord"
+	{
+		"en"		"Paracord knife"
+		"hu"		"Paracord kés"
+	}
+
+	"Shadow Daggers"
+	{
+		"en"		"Shadow Daggers"
+		"hu"		"Árnyéktőr"
+	}
+
+	"Karambit"
+	{
+		"en"		"Karambit"
+		"hu"		"Karambit"
+	}
+
+	"Falchion knife"
+	{
+		"en"		"Falchion knife"
+		"hu"		"Handzsárkés"
+	}
+
+	"M9 Bayonet"
+	{
+		"en"		"M9 Bayonet"
+		"hu"		"M9 Bajonett"
+	}
+
+	"Bayonet"
+	{
+		"en"		"Bayonet"
+		"hu"		"Bajonett"
+	}
+
+	"Flip knife"
+	{
+		"en"		"Flip knife"
+		"hu"		"Összecsukható kés"
+	}
+
+	"Gut knife"
+	{
+		"en"		"Gut knife"
+		"hu"		"Zsigerelőkés"
+	}
+
+	"Huntsman knife"
+	{
+		"en"		"Huntsman knife"
+		"hu"		"Vadászkés"
+	}
+
+//Knife SKINS
+
+	"Crimson Web"
+	{
+		"en"		"Crimson Web"
+		"hu"		"Crimson Web"
+	}
+	
+	"Night Stripe"
+	{
+		"en"		"Night Stripe"
+		"hu"		"Night Stripe"
+	}
+	
+	"Ultraviolet"
+	{
+		"en"		"Ultraviolet"
+		"hu"		"Ultraviola"
+	}
+	
+	"Gamma Doppler"
+	{
+		"en"		"Gamma Doppler"
+		"hu"		"Gamma Doppler"
+	}
+	
+	"Bright Water"
+	{
+		"en"		"Bright Water"
+		"hu"		"Bright Water"
+	}
+	
+	"Night"
+	{
+		"en"		"Night"
+		"hu"		"Night"
+	}
+	
+	"Black Laminate"
+	{
+		"en"		"Black Laminate"
+		"hu"		"Black Laminate"
+	}
+	
+	"Rust Coat"
+	{
+		"en"		"Rust Coat"
+		"hu"		"Rust Coat"
+	}
+	
+	"Blue Steel"
+	{
+		"en"		"Blue Steel"
+		"hu"		"Kék Acél"
+	}
+
+	"Boreal Forest"
+	{
+		"en"		"Boreal Forest"
+		"hu"		"Északi Erdő"
+	}
+
+	"Case Hardened"
+	{
+		"en"		"Case Hardened"
+		"hu"		"Edzett"
+	}
+
+	"Damascus Steel"
+	{
+		"en"		"Damascus Steel"
+		"hu"		"Damaszkuszi Acél"
+	}
+
+	"Doppler"
+	{
+		"en"		"Doppler"
+		"hu"		"Doppler"
+	}
+
+	"Fade"
+	{
+		"en"		"Fade"
+		"hu"		"Halványulás"
+	}
+
+	"Forest DDPAT"
+	{
+		"en"		"Forest DDPAT"
+		"hu"		"Erdei DDPAT"
+	}
+
+	"Marble Fade"
+	{
+		"en"		"Marble Fade"
+		"hu"		"Fakuló Márvány"
+	}
+
+	"Safari Mesh"
+	{
+		"en"		"Safari Mesh"
+		"hu"		"Szafari Háló"
+	}
+
+	"Scorched"
+	{
+		"en"		"Scorched"
+		"hu"		"Megperzselt"
+	}
+
+	"Slaughter"
+	{
+		"en"		"Slaughter"
+		"hu"		"Mészárlás"
+	}
+
+	"Stained"
+	{
+		"en"		"Stained"
+		"hu"		"Foltos"
+	}
+
+	"Tiger Tooth"
+	{
+		"en"		"Tiger Tooth"
+		"hu"		"Tigrisfog"
+	}
+
+	"Urban Masked"
+	{
+		"en"		"Urban Masked"
+		"hu"		"Városi Maszkolt"
+	}
+	
+//AWP SKINS
+
+	"Dragon Lore"
+	{
+		"en"		"Dragon Lore"
+		"hu"		"Dragon Lore"
+	}
+	
+	"Medusa"
+	{
+		"en"		"Medusa"
+		"hu"		"Medusa"
+	}
+	
+	"WildFire"
+	{
+		"en"		"WildFire"
+		"hu"		"WildFire"
+	}
+	
+	"Gungnir"
+	{
+		"en"		"Gungnir"
+		"hu"		"Gungnir"
+	}
+	
+	"The Prince"
+	{
+		"en"		"The Prince"
+		"hu"		"The Prince"
+	}
+	
+	"Containment Breach"
+	{
+		"en"		"Containment Breach"
+		"hu"		"The Prince"
+	}
+	
+	"Fade AWP"
+	{
+		"en"		"Fade"
+		"hu"		"Fade"
+	}
+	
+	"Neo-Noir AWP"
+	{
+		"en"		"Neo-Noir"
+		"hu"		"Neo-Noir"
+	}
+	
+	"Oni Taiji"
+	{
+		"en"		"Oni Taiji"
+		"hu"		"Oni Taiji"
+	}
+	
+	"Lightning Strike"
+	{
+		"en"		"Lightning Strike"
+		"hu"		"Lightning Strike"
+	}
+	
+	"Asiimov AWP" 
+	{
+		"en"		"Asiimov"
+		"hu"		"Asiimov"
+	}
+	
+	"Hyper Beast AWP"
+	{
+		"en"		"Hyper Beast"
+		"hu"		"Hyper Beast"
+	}
+	
+	"Man-o'-war"
+	{
+		"en"		"Man-o'-war"
+		"hu"		"Man-o'-war"
+	}
+	
+//M4A1 SKINS
+
+	"Printstream"
+	{
+		"en"		"Printstream"
+		"hu"		"Printstream"
+	}
+	
+	"Player Two"
+	{
+		"en"		"Player Two"
+		"hu"		"Player Two"
+	}
+	
+	"Welcome to the Jungle"
+	{
+		"en"		"Welcome to the Jungle"
+		"hu"		"Welcome to the Jungle"
+	}
+	
+	"Mecha Industries"
+	{
+		"en"		"Mecha Industries"
+		"hu"		"Mecha Industries"
+	}
+	
+	"Chantico's Fire"
+	{
+		"en"		"Chantico's Fire"
+		"hu"		"Chantico's Fire"
+	}
+	
+	"Golden Coil"
+	{
+		"en"		"Golden Coil"
+		"hu"		"Golden Coil"
+	}
+	
+	"Hyper Beast M4A1"
+	{
+		"en"		"Chantico's Fire"
+		"hu"		"Chantico's Fire"
+	}
+	
+	"Cyrex"
+	{
+		"en"		"Golden Coil"
+		"hu"		"Golden Coil"
+	}
+	
+//M4A4 SKINS
+	
+	"Asiimov M4A4"
+	{
+		"en"		"Asiimov M4A4"
+		"hu"		"Asiimov M4A4"
+	}
+	
+	"Neo-Noir M4A4"
+	{
+		"en"		"Neo-Noir M4A4"
+		"hu"		"Neo-Noir M4A4"
+	}
+	
+	"The Emperor"
+	{
+		"en"		"The Emperor"
+		"hu"		"The Emperor"
+	}
+	
+	"In Living Color"
+	{
+		"en"		"In Living Color"
+		"hu"		"In Living Color"
+	}
+	
+	"X-Ray"
+	{
+		"en"		"X-Ray"
+		"hu"		"X-Ray"
+	}
+	
+	"The Battlestar"
+	{
+		"en"		"The Battlestar"
+		"hu"		"The Battlestar"
+	}
+	
+	"Royal Paladin"
+	{
+		"en"		"Royal Paladin"
+		"hu"		"Royal Paladin"
+	}
+	
+	"Bullet Rain"
+	{
+		"en"		"Bullet Rain"
+		"hu"		"Bullet Rain"
+	}
+	
+	"Desert-Strike"
+	{
+		"en"		"Desert-Strike"
+		"hu"		"Desert-Strike"
+	}
+	
+	"Buzz Kill"
+	{
+		"en"		"Desert-Strike"
+		"hu"		"Desert-Strike"
+	}
+	
+//AK47 SKINS
+
+	"Legion of Anubis"
+	{
+		"en"		"Legion of Anubis"
+		"hu"		"Legion of Anubis"
+	}
+	
+	"Fire Serpent"
+	{
+		"en"		"Fire Serpent"
+		"hu"		"Fire Serpent"
+	}
+	
+	"X-Ray"
+	{
+		"en"		"X-Ray"
+		"hu"		"X-Ray"
+	}
+	
+	"Asiimov AK47"
+	{
+		"en"		"Asiimov"
+		"hu"		"Asiimov"
+	}
+	
+	"Neon Rider"
+	{
+		"en"		"Neon Rider
+		"hu"		"Neon Rider"
+	}
+	
+	"The Empress"
+	{
+		"en"		"The Empress"
+		"hu"		"The Empress"
+	}
+	
+	"Bloodsport"
+	{
+		"en"		"Bloodsport"
+		"hu"		"Bloodsport"
+	}
+	
+	"Neon Revolution"
+	{
+		"en"		"Neon Revolution"
+		"hu"		"Neon Revolution"
+	}
+	
+	"Fuel Injector"
+	{
+		"en"		"Fuel Injector"
+		"hu"		"Fuel Injector"
+	}
+	
+	"Wild Lotus"
+	{
+		"en"		"Wild Lotus"
+		"hu"		"Wild Lotus"
+	}
+	
+	"Aquamarine Revenge"
+	{
+		"en"		"Aquamarine Revenge"
+		"hu"		"Aquamarine Revenge"
+	}
+	
+	"Wasteland Rebel"
+	{
+		"en"		"Wasteland Rebel"
+		"hu"		"Wasteland Rebel"
+	}
+	
+	"Jaguar"
+	{
+		"en"		"Jaguar"
+		"hu"		"Jaguar"
+	}
+	
+	"Vulcan"
+	{
+		"en"		"Vulcan"
+		"hu"		"Vulcan"
+	}
+}
