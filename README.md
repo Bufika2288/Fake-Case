@@ -1,6 +1,6 @@
 # Fake-Case
 
-Players with flag a can fake case openings.
+Players with flag "a" can fake case openings.
 
 [![Asii.png](https://i.postimg.cc/xTdWyJGC/Asii.png)](https://postimg.cc/Rqjsv0D5)
 [![Blue-Steel.png](https://i.postimg.cc/mgvJsmvz/Blue-Steel.png)](https://postimg.cc/w1k05QTg)
