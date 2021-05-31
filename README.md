@@ -13,18 +13,14 @@ You can set custom access flag
 
 #Commands:
 
--sm_fakecase
-
--sm_casefake
-
--sm_case
-
--sm_cases
+- sm_fakecase
+- sm_casefake
+- sm_case
+- sm_cases
 
 
 
 #Cvars 
 
--sm_fakecase_flag "a"
-
--sm_notify_enable "1"
+- sm_fakecase_flag "a"
+- sm_notify_enable "1"
