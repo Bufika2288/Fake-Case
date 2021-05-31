@@ -584,7 +584,7 @@
 	
 	"Neon Rider"
 	{
-		"en"		"Neon Rider
+		"en"		"Neon Rider"
 		"hu"		"Neon Rider"
 	}
 	
