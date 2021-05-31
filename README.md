@@ -9,6 +9,8 @@ Players with flag a can fake case openings.
 100% translatable
 You can set custom access flag
 
+
+
 #Commands:
 
 -sm_fakecase
@@ -18,6 +20,8 @@ You can set custom access flag
 -sm_case
 
 -sm_cases
+
+
 
 #Cvars 
 
