@@ -1,5 +1,6 @@
 # Fake-Case
 
+Note : This plugin is originaly maded by Tommie113 i just added some new skins and functions, translations to it.
 Players with flag "a" can fake case openings.
 
 [![Asii.png](https://i.postimg.cc/xTdWyJGC/Asii.png)](https://postimg.cc/Rqjsv0D5)
